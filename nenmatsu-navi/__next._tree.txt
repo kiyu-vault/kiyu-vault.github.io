@@ -1,0 +1,2 @@
+:HL["/nenmatsu-navi/_next/static/chunks/1b4cek-3tp30y.css","style"]
+0:{"tree":{"name":"","param":null,"prefetchHints":4176,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":4256,"slots":null}}},"staleTime":300,"buildId":"Zt26CC9tV_IqYECrLEOkN"}
