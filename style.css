@@ -272,6 +272,8 @@ img { max-width: 100%; }
   margin: 0 auto 2px;
 }
 .talk.right .talk-face { background: #eef6ff; border-color: #9cc3e8; }
+/* 読者さんのアイコン(イラスト) */
+.talk-face.reader { background: var(--white); border-color: var(--main); }
 .talk-bubble {
   position: relative;
   background: var(--main-light);
